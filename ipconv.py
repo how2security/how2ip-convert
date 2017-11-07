@@ -3,7 +3,7 @@
 
 '''
 Author: Wellington Silva a.k.a. Well
-Date: July 2017
+Date: November 2017
 Name: ipconv.py
 Purpose: Criate data encoded with varius type encode.
 Description: Script Based on article by Ygor Rocha in H2HC Magazine 12º Edition and 14º Edition H2HC Conference, posted at:
