@@ -29,7 +29,7 @@ Other itens: Copyright (c) 2017, How2Security All rights reserved.
 '''
 
 import sys
-sys.path.append('lib-conv')
+sys.path.append('lib')
 import argparse
 from colors import *
 from how2libipc import *
