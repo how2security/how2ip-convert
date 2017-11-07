@@ -129,7 +129,7 @@ def main():
       print(color("IP Address in Hexadecimal (flat hex)\t => ", 2, 1) + "%s" % ip_hex_f)
       print(color("IP Address in Decimal (flat decimal)\t => ", 2, 1) + "%s" % ip_dec)
      
-     '''
+      '''
         Estes são necessários caso utilizemos os for para fazer o loop.
         Pois no final do loop anexamos um ponto (.) após o retorno
         da função
