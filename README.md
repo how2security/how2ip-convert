@@ -47,7 +47,8 @@ Veja os exemplos feito no endereço do Google:
 	10101100110110010001110111101110 => (flat binary)
 	10101100.11011001.00011101.11101110 => (dotted binary)
 
-	Qualquer caracter diferente dos aceitos resulturá em uma tentativa de resolver o endereço passado como se fosse o nome de dominio.
+	Qualquer caracter diferente dos aceitos resulturá em uma tentativa de resolver o endereço passado 
+	como se fosse o nome de dominio.
 
 Observação: Embora o utilitário ping interprete diversos formatos para representar um endereço IPv4, isso não significa necessariamente que você possa usar em todos os lugares. Alguns programas podem forçar a fornecer os 4 octetos em dicimal, outros podem aceitar porém em um único formato e não permite misturá-los.
 
@@ -83,7 +84,7 @@ Espero que gostem do script.
 
 Author: Wellington Silva a.k.a. Well
 
-Date: July 2017
+Date: November 2017
 
 Version: 1.0B
 
