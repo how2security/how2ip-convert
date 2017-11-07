@@ -59,6 +59,13 @@ Gostei do fim da explanação do Synetech, que diz:
 
 Espero que gostem do script.
 
+# Referências: #
+
+[1] Rocha, Ygor - Revista H2HC. Disponível em: <http://www.h2hc.com.br/revista/>. Acessado em: 07/11/2017.
+
+[2] Synetech -Superuser. Disponível em: <https://superuser.com/questions/486788/why-does-pinging-192-168-072-only-2-dots-return-a-response-from-192-168-0-58>. Acessado em: 07/11/2017.
+
+
 # Uso #
 
     ./ipconv.py -h
