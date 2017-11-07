@@ -7,9 +7,9 @@ Date: July 2017
 Name: ipconv.py
 Purpose: Criate data encoded with varius type encode.
 Description: Script Based on article by Ygor Rocha in H2HC Magazine 12º Edition and 14º Edition H2HC Conference, posted at:
-                     <http://www.h2hc.com.br/revista/RevistaH2HC_12.pdf>
-			I also got some tips from Synetech on the Superuser site, pusted at:
-					<https://superuser.com/questions/486788/why-does-pinging-192-168-072-only-2-dots-return-a-response-from-192-168-0-58>
+                	<http://www.h2hc.com.br/revista/RevistaH2HC_12.pdf>
+	     I also got some tips from Synetech on the Superuser site, pusted at:
+			<https://superuser.com/questions/486788/why-does-pinging-192-168-072-only-2-dots-return-a-response-from-192-168-0-58>
 Version: 1.0B
 Licence: GPLv3
  This program is free software: you can redistribute it and/or modify
