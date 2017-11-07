@@ -57,7 +57,7 @@ def main():
 	  
 	  por exemplo:
 	  
-	  > ping 1			-->		pinging 0.0.0.1
+	  > ping 1		-->		pinging 0.0.0.1
 	  > ping 1.2		-->		pinging 1.0.0.2
 	  > ping 1.2.3		-->		pinging 1.2.0.3
 	  > ping 1.2.3.4	-->		pinging 1.2.3.4
