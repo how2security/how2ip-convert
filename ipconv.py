@@ -29,7 +29,7 @@ Other itens: Copyright (c) 2017, How2Security All rights reserved.
 '''
 
 import sys
-sys.path.append('lib')
+sys.path.append('.lib')
 import argparse
 from colors import *
 from how2libipc import *
@@ -138,11 +138,15 @@ def main():
      #print("IP Address in Hexadecimal\t => %s" % ip_hex[:-1])
    
     except AttributeError:
-        print(color("\n[!] This data not valid", 1, 1))
+        print(color("\n[!] This data is not valid", 1, 1))
         parser.print_help()
         sys.exit(1)
     except TypeError:
         print(color("\n[!] This data non base[16|32|64]", 1, 1))
+        parser.print_help()
+        sys.exit(1)
+    except ValueError:
+        print(color("\n[!] This data is not valid", 1, 1))
         parser.print_help()
         sys.exit(1)
 
